@@ -1,0 +1,3 @@
+[submodule "first-blog/themes/gallery"]
+	path = first-blog/themes/gallery
+	url = https://github.com/nicokaiser/hugo-theme-gallery.git
